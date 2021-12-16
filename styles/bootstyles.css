@@ -1,0 +1,73 @@
+.common {
+    font-family: Lora, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica Neue, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji;
+    position: absolute;
+    width:50%;
+    height:46%;
+    color:white;
+}
+
+.nav {
+    color:darkolivegreen;
+    top: 0%;
+    right: 5px;
+    height: 4%;
+    left: 5px;
+    text-align:right;
+}
+.nav a:hover {
+    color:darkred;
+}
+.nav a {
+    color:inherit;
+}
+.chart1 {
+    top:4%;
+    bottom:50%;
+    right:50%;
+    left: 0%;
+    
+    
+}
+.chart2 {
+    top:4%;
+    bottom:50%;
+    right:0%;
+    left:50%;
+    
+}
+.chart3 {
+    top:50%;
+    bottom:0;
+    right:50%;
+    left: 0%;
+    
+}
+.chart4 {
+    top:50%;
+    bottom:0;
+    right:0%;
+    left:50%;
+    
+}
+.footer{
+    position: absolute;
+    color:white;
+    bottom: 0;
+    width: 100%;
+    height: 2.5rem;  
+    right:5px;
+    left:5px;          
+  }
+  .footer a{
+      color: white;
+  }
+  .footer a:hover{
+      color:red;
+  }
+  .page-container {
+    position: relative;
+    min-height: 100vh;
+  }
+  .content-wrap {
+    padding-bottom: 2.5rem;    
+  }

@@ -1,0 +1,54 @@
+.body {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 16px;
+    color: midnightblue;
+    background-color:cyan;
+}
+.h4 {
+    color: darkorange;
+}
+.li {
+    font-size: 15px;
+    color: olive;
+    font-style: italic;
+}
+.a {
+    color: black;
+}
+.topLink {
+    color: #fff;
+    
+}
+.topLink:hover, .topLink:focus {
+    color:crimson;
+}
+.ul {
+    list-style:circle;
+}
+.ul li {
+    font-size: 17px;
+    color: olive;
+    font-style: italic;
+}
+.ul li:hover {
+    font-size: 21px;
+    color:darkmagenta;
+}
+.p {
+    font-size:20px;
+}
+.ol {
+    list-style-type: upper-roman;
+}
+.ol li {
+    font-size: 17px;
+    color: olive;
+    font-style: italic;
+}
+.ol li:hover {
+    font-size: 21px;
+    color:darkmagenta;
+}
+.back1 {
+    background-image: url("../images/back1.jpg");
+}
